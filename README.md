@@ -44,3 +44,9 @@ The dataset was cleaned using pandas library in Python. The cleaning steps taken
 
 # Conclusion
 The WebDevelopment.csv dataset was cleaned and preprocessed to prepare it for further analysis. The data cleaning process involved dropping unwanted columns, transforming the data types, replacing values, and converting the duration of the course from hours to minutes. The resulting dataset contains 11 columns with no null values. The cleaned dataset can be used for exploratory data analysis and machine learning tasks.
+
+# Contributing
+If you would like to contribute to this code, please fork the repository and submit a pull request with your changes.
+
+# License
+This code is licensed under the MIT License.
